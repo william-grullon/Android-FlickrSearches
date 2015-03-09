@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Flickr Searches</string>
+	<string name="searchURL">https://www.flickr.com/search/?q=</string>
+	<string name="tagPrompt">Tag your query</string>
+	<string name="queryPrompt">Enter Flickr search query here</string>
+    <string name="tagFrom">From YYYYMMDD</string>
+    <string name="tagUntil">Until YYYYMMDD</string>
+	<string name="taggedSearches">Tagged Searches</string>
+	<string name="saveDescription">Touch this button to save your tagged search</string>
+
+	<string name="shareEditDeleteTitle">Share, Edit or Delete the search tagged as \"%s\"</string>
+   <string-array name="dialog_items">
+      <item>Share</item>
+      <item>Edit</item>
+      <item>Delete</item>
+   </string-array>
+   <string name="shareSubject">Flickr search that might interest you</string>
+   <string name="shareMessage">Check out the results of this Flickr search: %s</string>
+   <string name="shareSearch">Share Search to:</string>
+   <string name="cancel">Cancel</string>
+   <string name="OK">OK</string>
+   <string name="confirmMessage">Are you sure you want to delete the search \"%s\"?</string>
+   <string name="delete">Delete</string>
+	<string name="missingMessage">Enter a least both a Flickr search query and a tag</string>
+    <string name="TypeSearch">Type of Search</string>
+    <string name="date">Search by Date (Optional)</string>
+    <string name="to"> to </string>
+    <string name="allWords">All Words</string>
+    <string name="exact">Exact</string>
+    <string name="anyWords">Any Words</string>
+</resources>
